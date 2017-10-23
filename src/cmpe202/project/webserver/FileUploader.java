@@ -70,7 +70,7 @@ public class FileUploader implements HttpHandler{
 			uz.unzipFunction(Constants.STATIC_FILE_HOME, filepath);
 			try {
 				WebDBUtility u = new WebDBUtility();
-				u.addWebDBEntry(dir, "mmgehlot", "Stop", "index.html");
+				u.addWebDBEntry(dir, "Admin", "Stop", "index.html");
 				
 			} catch (Exception e) {
 				e.printStackTrace();
