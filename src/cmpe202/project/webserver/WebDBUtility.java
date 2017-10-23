@@ -274,10 +274,10 @@ public class WebDBUtility {
 	
 	public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException, JAXBException, TransformerException{
 		WebDBUtility u = new WebDBUtility();
-//		u.addWebDBEntry("kognito", "mmgehlot", "Start","index.html");
+//		u.addWebDBEntry("kognito", "Admin", "Start","index.html");
 
 //		u.getAllWebApp();
-		LinkedList<WebDBEntry> list = u.getUserWebAppList().get("mmgehlot");
+		LinkedList<WebDBEntry> list = u.getUserWebAppList().get("Admin");
 		for(WebDBEntry w : list)
 			System.out.println(w.getName());
 //		System.out.println(u.getWebAppStatus("/kognito"));

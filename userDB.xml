@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <UserDB>
 <user>
-<username>mmgehlot</username>
+<username>Admin</username>
 <password>abc</password>
 <role>manager</role>
 </user>
 <user>
-<username>Manmohan</username>
+<username>Admin</username>
 <password>abc</password>
 <role>manager</role>
 </user>
 <user>
-<username>Manmohan</username>
+<username>Admin</username>
 <password>abc</password>
 <role>manager</role>
 </user>
