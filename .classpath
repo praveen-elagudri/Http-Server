@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/workspace/NewHttpWebServer/lib/commons-compress-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/workspace/NewHttpWebServer/lib/commons-compress-1.14-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/workspace/NewHttpWebServer/lib/commons-compress-1.14-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/workspace/NewHttpWebServer/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/workspace/NewHttpWebServer/lib/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/workspace/NewHttpWebServer/lib/http-20070405.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/workspace/NewHttpWebServer/lib/http-20070405-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/workspace/NewHttpWebServer/lib/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

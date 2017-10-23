@@ -1,0 +1,60 @@
+h3 {
+    text-align: center;
+    vertical-align: top;
+    font-family:sans-seri;
+    font-weight: bold;
+    font-size:20px;
+    color: black;
+}
+
+table {
+    width: 100%;
+}
+td.title {
+    text-align: left;
+    vertical-align: top;
+    font-family:sans-serif;
+    font-weight: bold;
+    background: #006666;
+    color: #fff;
+}
+td.header-left {
+    text-align: left;
+    vertical-align: top;
+    font-family:sans-serif;
+    font-weight: bold;
+    background: #009999;
+    color: #fff;
+}
+td.header-center {
+    text-align: center;
+    vertical-align: top;
+    font-family:sans-serif;
+    font-weight: bold;
+    background: #009999;
+    color: #fff;
+}
+td.row-left {
+    text-align: left;
+    vertical-align: middle;
+    font-family:sans-serif;
+    color: black;
+}
+td.row-center {
+    text-align: center;
+    vertical-align: middle;
+    font-family:sans-serif;
+    color: black;
+}
+td.row-right {
+    text-align: right;
+    vertical-align: middle;
+    font-family:sans-serif;
+    color: black;
+}
+form {
+    margin: 1px;
+}
+form.inline {
+    display: inline;
+}

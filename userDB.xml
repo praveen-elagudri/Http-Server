@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UserDB>
+<user>
+<username>mmgehlot</username>
+<password>abc</password>
+<role>manager</role>
+</user>
+<user>
+<username>Manmohan</username>
+<password>abc</password>
+<role>manager</role>
+</user>
+<user>
+<username>Manmohan</username>
+<password>abc</password>
+<role>manager</role>
+</user>
+</UserDB>
